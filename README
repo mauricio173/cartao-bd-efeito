@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/mauricio173/cartao-bd-efeito.git
 git push -u origin main
+
+Acessar a página:
+https://mauricio173.github.io/cartao-bd-efeito/
